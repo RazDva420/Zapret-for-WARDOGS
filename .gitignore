@@ -1,0 +1,22 @@
+# Local and generated files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.sqlite
+*.db
+__pycache__/
+.pytest_cache/
+node_modules/
+target/
+build/
+dist/
+artifacts/
+*.exe
+*.dll
+*.sys
+*.mp3
